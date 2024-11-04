@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545283429751",
+    "project_id": "activity-3-ipt-back-end",
+    "storage_bucket": "activity-3-ipt-back-end.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545283429751:android:8a2d79cfe85ec85c227d72",
+        "android_client_info": {
+          "package_name": "com.example.activity_3_ipt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQodyAfWq9wRgdxa3pjE5t71PU-39JN8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
